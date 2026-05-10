@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Final-year **Data Science** student @ Pharos University, Alexandria
+- Data Analyst | Power BI & Python | Pharos University
 - Passionate about **ML pipelines**, **AI apps**, and **data storytelling**
 - I build from raw data to feature engineering to deployment-ready apps
 - Based in **Alexandria, Egypt**
