@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hager%20Bayoumi&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hager%20Bayoumi&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descColor=a8b2d8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions+%F0%9F%A7%A0;Building+end-to-end+ML+pipelines+%F0%9F%94%A7;Power+BI+%7C+Streamlit+%7C+Flutter+%F0%9F%9A%80;Final+year+%40+Pharos+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+end-to-end+ML+pipelines;Power+BI+%7C+Streamlit+%7C+Flutter;Final+year+%40+Pharos+University)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,26 +10,28 @@
 
 ## About Me
 
--  Final-year **Data Science** student @ Pharos University, Alexandria
--  Passionate about **ML pipelines**, **AI apps**, and **data storytelling**
--  I build from raw data → feature engineering → deployment-ready apps
--  Based in **Alexandria, Egypt**
--  Reach me: **hagerbayoumi11@gmail.com**
+- Final-year **Data Science** student @ Pharos University, Alexandria
+- Passionate about **ML pipelines**, **AI apps**, and **data storytelling**
+- I build from raw data to feature engineering to deployment-ready apps
+- Based in **Alexandria, Egypt**
+- Reach me: **hagerbayoumi11@gmail.com**
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  Sehtak AI — Cancer Detection Mobile App
+### Sehtak AI — Cancer Detection Mobile App
 > Flutter app for early cancer detection using medical images & symptom questionnaires
+
 - AI model identifies cancer type + generates medical summaries
 - Patient & doctor dashboards with appointment management
 - **Tech:** Flutter, TensorFlow, Firebase
 
 ---
 
-###  UNI-AI — Student Risk Prediction Platform
+### UNI-AI — Student Risk Prediction Platform
 > Trained & compared **9 ML models** on OULAD dataset (32,593 students, 70+ features)
+
 - Best model: **AUC 93.1% | F1 88.8%** (Ensemble Top 3)
 - Real-time risk scoring: Low / Medium / High + SHAP explainability
 - Full Streamlit app with EDA dashboard, model leaderboard & AI recommendations
@@ -37,23 +39,25 @@
 
 ---
 
-### limate Change Impact on Agriculture
+### Climate Change Impact on Agriculture
 > 4-page interactive Power BI dashboard analyzing crop yield across climate factors
+
 - Analyzed temperature, precipitation, fertilizer & pesticide impact
-- Key insight: optimal yield at 15–25°C | recommended ML-based weather forecasting
+- Key insight: optimal yield at 15-25C | recommended ML-based weather forecasting
 - **Tech:** Python, Power BI, Excel
 
 ---
 
 ### Customer Churn Analysis
-> 5-page Power BI dashboard — 50K customers | $184M revenue | 2020–2023
+> 5-page Power BI dashboard — 50K customers | $184M revenue | 2020-2023
+
 - Customer segmentation by age, gender & product performance
 - Identified key churn drivers & recommended targeted discount strategy
 - **Tech:** Power BI, Excel, DAX
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -74,7 +78,7 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -91,7 +95,7 @@
 
 ---
 
-##  Certifications
+## Certifications
 
 | Course | Provider |
 |--------|----------|
@@ -103,7 +107,7 @@
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
