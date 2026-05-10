@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Data Analyst | Power BI & Python | Pharos University
+- Data Scientist | ML Engineer | Power BI | Pharos University
 - Passionate about **ML pipelines**, **AI apps**, and **data storytelling**
 - I build from raw data to feature engineering to deployment-ready apps
 - Based in **Alexandria, Egypt**
