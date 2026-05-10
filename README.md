@@ -82,14 +82,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hagerbayoumi11&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagerbayoumi11&layout=compact&theme=dark&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hagerbayoumi11&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hagerbayoumi11&theme=tokyonight&hide_border=true)
 
 </div>
 
