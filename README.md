@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0f3460&height=200&section=header&text=Hager%20Bayoumi&fontSize=50&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descColor=7C3AED" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+Power+BI;Turning+raw+data+into+decisions;Building+end-to-end+ML+pipelines;Power+BI+%7C+Streamlit+%7C+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Turning+raw+data+into+decisions;Building+end-to-end+ML+pipelines;Power+BI+%7C+Streamlit)](https://git.io/typing-svg)
 
 </div>
 
